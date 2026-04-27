@@ -3,7 +3,7 @@
 ## Estado actual resumido
 
 - Preguntas Moodle: completas (6 preguntas con opciones y respuesta correcta).
-- Documento del tema: a medias (hecho tema, problema y tecnologías; faltan arquitectura, opinión y ejemplo real completo).
+- Documento del tema: completo (incluye arquitectura, opinion del grupo y ejemplo real con métricas y fuentes).
 - Presentación: a medias (hechas diapositivas 1 a 4; faltan arquitectura, caso real, beneficios y cierre).
 
 ---
