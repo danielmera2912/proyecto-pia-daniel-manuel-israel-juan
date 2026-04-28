@@ -1,71 +1,32 @@
-# Pendientes para completar entre compañeros
+# Estado y pendientes del trabajo en equipo
 
-## Estado actual resumido
+## Estado actual
 
-- Preguntas Moodle: completas (6 preguntas con opciones y respuesta correcta).
-- Documento del tema: completo (incluye arquitectura, opinion del grupo y ejemplo real con métricas y fuentes).
-- Presentación: a medias (hechas diapositivas 1 a 4; faltan arquitectura, caso real, beneficios y cierre).
-
----
-
-## Lo que falta por hacer
-
-### 1. Terminar el documento del tema (prioridad alta)
-
-- Desarrollar el apartado 3 (Arquitectura).
-- Redactar el apartado 7 (Opinión del grupo).
-- Completar el ejemplo real elegido con una explicación clara.
-
-### 2. Terminar la presentación (prioridad alta)
-
-- Crear diapositiva de arquitectura.
-- Crear diapositiva de ejemplo real.
-- Crear diapositiva de beneficios.
-- Crear diapositiva final de conclusiones/cierre.
-
-### 3. Completar evidencias con datos reales (prioridad alta)
-
-- Añadir 2 o 3 métricas cuantitativas sobre el ejemplo real (radiología asistida por IA), por ejemplo:
-  - mejora de precisión,
-  - reducción de tiempo de revisión,
-  - impacto en costes.
-- Incluir la fuente de cada dato (artículo, informe o web oficial).
-- Integrar esos datos en el documento y en una diapositiva específica de resultados.
-
-### 4. Reparto de exposición (prioridad media)
-
-- Asignar qué parte presenta cada integrante.
-- Definir orden de intervención y tiempos aproximados por persona.
-- Ensayar transición entre bloques para que la exposición sea fluida.
-
-### 5. Ajuste final del cuestionario Moodle (prioridad media)
-
-- Revisar redacción final y ortografía.
-- Subir dificultad en 1 o 2 preguntas para evaluar mejor comprensión.
-- Verificar que todas las preguntas se respondan claramente desde la presentación.
-
-### 6. Revisión de formato y entrega (prioridad media)
-
-- Confirmar títulos consistentes en todos los archivos.
-- Revisar que no falte información obligatoria según rúbrica.
-- Hacer una última lectura cruzada entre documento, presentación y preguntas.
+- [x] Documento del tema: completo (secciones 1–7 con arquitectura, caso real, métricas con fuentes y opinión del grupo).
+- [x] Presentación (guión): completa en `presentacion.md` (8 diapositivas) y en `guion_powerpoint.md` (textos exactos, notas del presentador y reparto).
+- [x] Preguntas Moodle: completas (6 preguntas con opciones y respuesta correcta en `preguntas_moodle.md`).
+- [x] Datos y fuentes: métricas del caso real con tabla y referencias en sección 5 del documento.
+- [x] Reparto de exposición: definido en `guion_powerpoint.md`.
 
 ---
 
-## Propuesta rápida de reparto
+## Lo que falta (único pendiente real)
 
-1. Persona A: terminar arquitectura en documento y presentación.
-2. Persona B: cerrar ejemplo real y buscar métricas con fuentes.
-3. Persona C: redactar opinión y conclusiones finales.
-4. Persona D: revisar preguntas Moodle y formato global.
+### Montar el PowerPoint (prioridad alta — responsable: un compañero del grupo)
+
+- Abrir `guion_powerpoint.md` y seguir el guión diapositiva por diapositiva.
+- Usar la plantilla corporativa de la universidad o una plantilla limpia (azul oscuro / blanco).
+- Copiar los textos exactos de cada tabla al slide correspondiente.
+- Copiar el bloque "Qué decir" al panel de notas de PowerPoint de cada slide.
+- Destacar las métricas −30 % y +13 % con texto grande en la diapositiva 7.
+- Revisar que no haya más de 5–6 líneas de texto por diapositiva.
 
 ---
 
-## Checklist de cierre
+## Checklist de entrega final
 
-- [ ] Documento completo (arquitectura, opinión y ejemplo real).
-- [ ] Presentación completa (arquitectura, caso, beneficios y cierre).
-- [ ] Datos y fuentes añadidas en documento y presentación.
-- [ ] Reparto de exposición definido.
-- [ ] Preguntas Moodle revisadas y ajustadas.
-- [ ] Revisión final según rúbrica completada.
+- [x] `documento_tema.md` — completo y numerado (secciones 1–7).
+- [x] `presentacion.md` — 8 diapositivas completas.
+- [x] `guion_powerpoint.md` — textos exactos + notas + reparto para montar el PPT.
+- [x] `preguntas_moodle.md` — 6 preguntas con opciones y respuesta correcta.
+- [ ] Archivo PowerPoint (.pptx) montado a partir del guión.
