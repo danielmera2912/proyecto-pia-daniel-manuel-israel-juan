@@ -6,7 +6,6 @@
 - [x] Presentación (guión): completa en `presentacion.md` (8 diapositivas) y en `guion_powerpoint.md` (textos exactos, notas del presentador y reparto).
 - [x] Preguntas Moodle: completas (6 preguntas con opciones y respuesta correcta en `preguntas_moodle.md`).
 - [x] Datos y fuentes: métricas del caso real con tabla y referencias en sección 5 del documento.
-- [x] Reparto de exposición: definido en `guion_powerpoint.md`.
 
 ---
 
