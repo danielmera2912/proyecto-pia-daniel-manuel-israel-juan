@@ -4,6 +4,8 @@
 
 Proyecto final — Programación de Inteligencia Artificial · Abril 2026
 
+**Repositorio:** [github.com/danielmera2912/proyecto-pia-daniel-manuel-israel-juan](https://github.com/danielmera2912/proyecto-pia-daniel-manuel-israel-juan)
+
 ## Grupo
 
 | Nombre |
