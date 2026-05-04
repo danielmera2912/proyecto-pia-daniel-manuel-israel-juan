@@ -24,7 +24,7 @@ Este proyecto analiza cómo las organizaciones pueden incorporar IA para superar
 | Archivo | Descripción |
 |---|---|
 | `documento_tema.md` | Documento principal del tema, tecnologías y propuesta |
-| `presentacion.md` | Guión de diapositivas para la presentación |
+| `exposicion.pptx` | Presentación |
 | `preguntas_moodle.md` | Preguntas de evaluación en Moodle |
-| `pendientes_companeros.md` | Tareas pendientes del equipo |
 | `03-entrega_y_rubrica_presentacion_convergencia_IA.md` | Rúbrica y criterios de entrega |
+| `S24-ModelosDeAutomatizacion-PIA.pdf` | Documentación del tema elegido |
